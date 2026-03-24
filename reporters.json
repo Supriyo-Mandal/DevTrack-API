@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "team": "backend"
+  },
+  {
+    "id": 4,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "team": "backend"
+  }
+]
